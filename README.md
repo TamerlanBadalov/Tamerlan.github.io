@@ -1,2 +1,2 @@
-# Tamerlan.github.io
+# TamerlanBadalov.github.io
 responsiv site
